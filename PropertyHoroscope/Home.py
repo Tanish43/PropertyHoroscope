@@ -16,8 +16,7 @@ image = Image.open('property_image.jpg')  # Replace with your own image
 
 st.image(image, use_column_width=True)
 
-# Title and description
-st.title("Welcome to PropertyHoroscope 🏡✨")
+# Title and descriptionst.title("Welcome to PropertyHoroscope 🏡✨")
 st.subheader("Unlock Insights for Your Dream Property in Gurgaon")
 
 st.write("""
